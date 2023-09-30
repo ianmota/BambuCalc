@@ -32,9 +32,7 @@ Para mais informações contactar:
 
 <a align="center" href="https://www.linkedin.com/in/ian-mota-164a36195/">
 
-<p>
 <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/95248335?v=4" width="100px;" alt=""/>
-</p>
 <h1><b>Ian Mota </b></h1>
 </a>
 
