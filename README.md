@@ -31,11 +31,11 @@ Para mais informações contactar:
 </h2>
 
 <a align="center" href="https://www.linkedin.com/in/ian-mota-164a36195/">
-    <p>
-        <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/95248335?v=4" width="100px;" alt=""/>
-        <br />
-    </p>
-	<h1><b>Ian Mota </b></h1>
+
+<p>
+<img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/95248335?v=4" width="100px;" alt=""/>
+</p>
+<h1><b>Ian Mota </b></h1>
 </a>
 
 ![Gmail Badge](https://img.shields.io/badge/ianmotabr@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white) 
